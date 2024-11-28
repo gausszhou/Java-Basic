@@ -1,6 +1,6 @@
 package com.example.basic;
 
-public class Demo02 {
+public class Demo02Variable {
     public static void main(String[] args) {
         // Java 是强类型语言
         // 要求变量的使用要严格符合规定，所有变量都必须先定义后才能使用

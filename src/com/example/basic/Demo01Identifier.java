@@ -1,6 +1,6 @@
 package com.example.basic;
 
-public class Demo01 {
+public class Demo01Identifier {
     public static void main(String[] args) {
         // 所有的标识符都应该以 字母 $ _ 开始
         // 首字符之后可以是 字母 $ _ 数字

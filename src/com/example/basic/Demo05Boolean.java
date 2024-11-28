@@ -1,6 +1,6 @@
 package com.example.basic;
 
-public class Demo05 {
+public class Demo05Boolean {
     public static void main(String[] args) {
         /**
          * 注意点
