@@ -11,3 +11,23 @@ public class Application {
         s.eat(); // Student.eat
     }
 }
+
+class Person {
+
+    public void run() {
+        System.out.println("Person.run");
+    }
+
+}
+
+class Student extends Person {
+
+    public void run() {
+        System.out.println("Student.run");
+    }
+
+    public void eat() {
+        System.out.println("Student.eat");
+    }
+}
+
